@@ -76,3 +76,35 @@ technischer Begriff für Pflichtenheft -> Anforderungskatalog = Pflichtenheft
   - Kapitelbezogen
   - Funktionsbezogen
 - Automatische Generierung empfohlen, um Aktualität sicherzustellen
+
+# Funktionale Anforderungen
+
+## Definition
+
+- Funktionale Anforderungen = **Leistungen des Systems**, die der Benutzer erwartet
+- Anwender interessiert sich **nicht für die Umsetzung**, sondern nur für das Ergebnis
+- **Keine Implementationskonzepte** auf dieser Ebene
+
+## Eigenschaften
+
+- **Vollständigkeit**: Alle gewünschten Leistungen sind aufgeführt
+- **Konsistenz**: Keine Anforderung widerspricht einer anderen
+
+⚠️ Bei großen/komplexen Systemen sind Vollständigkeit & Konsistenz **in der ersten Version kaum erreichbar** → spätere Anpassungen notwendig
+
+## Darstellungsarten
+
+1. **Natürliche Sprache**
+
+   - Häufigste Form
+   - Gut verständlich für Anwender
+   - Hohe Ausdrucksmöglichkeit
+
+2. **Strukturierte / formatierte Sprache**
+
+   - Mit Regeln, aber ohne strenge Syntax/Semantik
+   - Weniger verbreitet
+
+3. **Formale Spezifikationssprache**
+   - Exakte Syntax & Semantik
+   - Sehr selten genutzt
