@@ -18,7 +18,7 @@ Nachweis, dass man diese Anforderung am Umsetzen ist.
 
 ## verifizierbar
 
-Anforderugen funktionieren genau so wie definiert.
+Anforderugen funktionieren nachweisbar genau so wie definiert.
 
 # Anforderungskatalog
 
