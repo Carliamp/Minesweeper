@@ -23,3 +23,56 @@ Anforderugen funktionieren nachweisbar genau so wie definiert.
 # Anforderungskatalog
 
 technischer Begriff für Pflichtenheft -> Anforderungskatalog = Pflichtenheft
+
+# Aufbau eines Anforderungskatalogs
+
+## 1. Einleitung
+
+- **Zweck**: Notwendigkeit und Einbettung des Systems in seine Umwelt
+- **Inhalte**: Kurze Funktionsbeschreibung, Erklärung der verwendeten Notation, Struktur des Katalogs
+
+## 2. Hardware
+
+- Beschreibung spezieller Hardware (falls vorhanden)
+- Angabe von **Minimal-** und **Optimal-Konfigurationen**
+
+## 3. Konzept
+
+- Überblick über das System und seine Hauptleistungen
+- Darstellung der Beziehungen zwischen Teilleistungen
+- **Grafische Notation** empfohlen
+
+## 4. Funktionale Anforderungen
+
+- Beschreibung der Leistungen, die das System bietet
+- Darstellung in **natürlicher Sprache**, **halb-/formaler Sprache** oder einer **Mischung**
+
+## 5. Datenbasis
+
+- Logischer Aufbau der verwendeten Daten
+- Darstellung der **Beziehungen** zwischen Daten (z. B. **ERD**)
+
+## 6. Nichtfunktionale Anforderungen
+
+- Einschränkungen und Grenzen des Systems
+- Bezug zu den funktionalen Anforderungen herstellen
+
+## 7. Wartungsinformationen
+
+- Annahmen zur Entwicklung dokumentieren
+- Erwartete Änderungen durch Hardware-Entwicklung oder Nutzeranforderungen
+- Besonders modifikationsanfällige Funktionen hervorheben
+
+## 8. Glossar
+
+- Definition technischer Fachbegriffe
+- Unterstützung für **nicht-technische Nutzer** und **Entwicklungspersonal**
+- Klare, verständliche Erklärungen ohne Vorwissen vorauszusetzen
+
+## 9. Index
+
+- Mehrere Indizes sinnvoll:
+  - Alphabetisch
+  - Kapitelbezogen
+  - Funktionsbezogen
+- Automatische Generierung empfohlen, um Aktualität sicherzustellen
